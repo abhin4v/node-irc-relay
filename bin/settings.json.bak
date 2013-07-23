@@ -26,6 +26,10 @@
 			 	"user": "<username>",
 			    "password": "<password>"
 			}
+		},
+		"irc_search" : {
+			"host": "127.0.0.1",
+			"port":	<needed>
 		}
 	}
 }
